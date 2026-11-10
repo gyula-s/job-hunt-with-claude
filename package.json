@@ -1,0 +1,14 @@
+{
+  "name": "job-hunt-with-claude",
+  "private": true,
+  "type": "module",
+  "description": "A Claude Code workspace for job hunting: honest CVs, tailored applications, and a log of every application.",
+  "scripts": {
+    "export": "node scripts/export.mjs"
+  },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "html-to-docx": "^1.8.0",
+    "marked": "^12.0.2"
+  }
+}

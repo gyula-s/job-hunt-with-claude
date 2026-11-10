@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node scripts/export.mjs:*)",
+      "Bash(node scripts/linkedin-search.mjs:*)",
+      "Bash(node scripts/linkedin-job.mjs:*)",
+      "Bash(npm install)",
+      "Bash(git status:*)",
+      "Bash(git add workspace:*)",
+      "Bash(git commit:*)"
+    ]
+  }
+}

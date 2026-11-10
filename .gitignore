@@ -1,0 +1,4 @@
+node_modules/
+.DS_Store
+# Sensitive personal details and transcripts never leave this machine.
+/workspace/private/
